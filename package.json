@@ -1,0 +1,14 @@
+{
+  "name": "node-hula-dingding",
+  "version": "1.0.0",
+  "description": "呼啦钉钉接口封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluedtao",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
